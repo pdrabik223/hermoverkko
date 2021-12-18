@@ -1,2 +1,3 @@
-# hermoverkko
-Neural net made in cpp 
+# Hermoverkko
+Neural net library made in cpp 
+
